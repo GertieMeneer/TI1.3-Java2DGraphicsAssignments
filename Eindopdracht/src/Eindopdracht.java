@@ -16,7 +16,6 @@ import java.io.IOException;
 
 public class Eindopdracht extends Application
 {
-
     private static final int WIDTH = 800;
     private static final int HEIGHT = 600;
     private static final int TEXT_SIZE = 80;

@@ -56,12 +56,6 @@ public class GradientPaintExercise extends Application {
         RadialGradientPaint radialGradientPaint = new RadialGradientPaint(focus, 200, fractions, colors, MultipleGradientPaint.CycleMethod.REPEAT);
 
         graphics.setPaint(radialGradientPaint);
-
-
-
-
-
-
     }
 
 

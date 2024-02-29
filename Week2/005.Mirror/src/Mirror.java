@@ -64,7 +64,6 @@ public class Mirror extends Application {
         graphics.draw(tx.createTransformedShape(path));
     }
 
-
     public static void main(String[] args)
     {
         launch(Mirror.class);
